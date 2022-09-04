@@ -1,2 +1,2 @@
-# GoITmodul#1
+# GoITmodul-1
 homework#1
